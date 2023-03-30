@@ -1,0 +1,11 @@
+a) São números ímpares e consecutivos. O próximo número seria o 9.
+
+b) Cada número é o dobro do número anterior. O próximo número seria o 128.
+
+c) Cada número é o quadrado do seu índice em sequência. O próximo número seria o 49.
+
+d) Cada número é o quadrado de um número par consecutivo. O próximo número seria o 100.
+
+e) Cada número é a soma dos dois números anteriores. O próximo número seria o 13.
+
+f) A sequência é formada por números que contém o dígito 1 na casa decimal, em ordem crescente. O próximo número seria o 20.
