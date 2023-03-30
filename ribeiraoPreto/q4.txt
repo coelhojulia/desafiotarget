@@ -1,0 +1,28 @@
+Questão: em quanto tempo o carro e o caminhão se encontrarão na rodovia?
+
+O tempo que levará para eles se encontrarem é dado pela fórmula:
+
+tempo = distância / velocidade relativa
+
+A velocidade relativa é calculada através da soma das velocidades dos veículos, já que estão se aproximando um do outro:
+
+velocidade relativa = velocidade do carro + velocidade do caminhão
+
+Substitua os valores:
+
+tempo = 100 km / (110 km/h + 80 km/h) = 0,625 h = 37,5 minutos
+
+Em quanto tempo se encontrarão foi respondido!
+
+Questão: calcular a distância percorrida por cada um deles no intervalo de tempo dado.
+
+O carro percorre uma distância de:
+
+distância do carro = velocidade do carro x tempo = 110 km/h x 0,625 h = 68,75 km
+
+Já o caminhão percorre uma distância de:
+
+distância do caminhão = velocidade do caminhão x tempo = 80 km/h x 0,625 h = 50 km
+
+Logo, quando ambos os veículos se encontrarem, o carro estará mais próximo da cidade de Ribeirão Preto, pois percorreu uma distância maior do que o caminhão.
+O caminhão terá percorrido apenas 50 km, enquanto o carro terá percorrido 68,75 km.
