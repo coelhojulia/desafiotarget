@@ -1,7 +1,8 @@
 def inverte_string(string):
     lista_caracteres = list(string)
     
-    lista_caracteres.reverse()
+    for i in range(len(lista_caracteres)//2):
+        lista_caracteres[i], lista_caracteres[len(lista_caracteres)-i-1] = lista_caracteres[len(lista_caracteres)-i-1], lista_caracteres[i]
     
     string_invertida = ''.join(lista_caracteres)
     
